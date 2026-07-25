@@ -28,8 +28,6 @@ This project answers common business questions such as:
 
 ***
 
-![Key Analytical Visualization(Power BI)](https://github.com/debraville7/Marketing-Analytics-Power-BI-SQL-Python/blob/3664781001c85238b08e1409aa8c8eddab4b1c54/Power%20BI%20MarketAnalyst_Export.pdf)
-
 ***
 
 ## 💡 Actionable Insights
