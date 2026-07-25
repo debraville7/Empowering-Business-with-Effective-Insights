@@ -26,7 +26,6 @@ This project answers common business questions such as:
 * **Data Visualization:** Power BI
 * **Analytical Techniques:** Trend Analysis
 
-***
 
 ***
 
